@@ -1,4 +1,4 @@
-This is a repository that demonstrates Neural Style Transfer using TensorFlow 2.1 framework. The content of this repository is purely for education purposes.
+This repository demonstrates Neural Style Transfer (NST) technique implemented on TensorFlow 2.1 environment. The content of this repository is purely for education purposes.
 
 # What is Neural Style Transfer?
 The basic idea for Neural Style Transfer is to extract the learned representation from a pretrained neural network (typically Convolutional Networks), and optimise the **generated pixels** against a pair of images: Content(C) and Style(S). The synthesised image is expected to have the grooves and motives of the _style_ image, whilst preserving the original _content_.
@@ -15,4 +15,4 @@ To synthesis a new image:
 
 Happy learning!
 
-The images, algorithms, and the base content belong to its original respective owners.
+The image, algorithm, and the base content belongs to its original respective owners.
