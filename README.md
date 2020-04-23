@@ -9,7 +9,7 @@ You will need to provide a content:
 Pair this with a desired style:
 ![Style Images](./assets/styles-all.png)
 
-To synthesis a new image:
+To synthesize a new image:
 ![Content Image](./assets/tfhub-synthesis-all.png)
 ![Content Image](./assets/synthesis-all.png)
 
